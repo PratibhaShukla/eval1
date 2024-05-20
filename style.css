@@ -1,0 +1,37 @@
+.navbar ul{
+    /* border:  1px solid red; */
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    
+}
+.navbar{
+    display: flex;
+    align-items: center;
+}
+nav{
+    margin: 0 50px;
+display: flex;
+justify-content: space-between
+
+}
+li{
+    margin: 5px 20px;
+}
+.banner-1{
+    background-color: red;
+    color: white;
+    text-align: center;
+    font-size: 24px;
+    padding: 10px;
+}
+.banner-2{
+    text-align: center;
+    font-size: 32px;
+    padding: 10px;
+}
+.banner-img{
+    width: 95%;
+    margin: 0 25px;
+}
